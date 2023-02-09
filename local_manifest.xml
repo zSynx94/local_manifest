@@ -13,5 +13,6 @@
 	<project path="hardware/samsung" name="android_hardware_samsung" remote="lineage" revision="lineage-20.0" />
 	<project path="kernel/samsung/msm8917" name="android_kernel_samsung_msm8917" remote="dev" revision="lineage-19.1" />
         <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="youheng7185" revision="lineage-19.1"/>
+        <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="clang" revision="master" clone-depth="1" /> 
         
 </manifest>
